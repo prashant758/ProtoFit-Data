@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Burpees",
+    "Video": "https://www.youtube.com/watch?v=TU8QYVW0gDU",
+    "Details": {
+      "Angles": ["Full squat to jump"],
+      "Postures": ["Engage core", "Land softly"]
+    },
+    "Body_hit_ratio": { "legs": "40%", "arms": "20%", "core": "40%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 60,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Mountain Climbers",
+    "Video": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "Details": {
+      "Angles": ["Straight arms, knees to chest"],
+      "Postures": ["Keep hips low", "Move fast but controlled"]
+    },
+    "Body_hit_ratio": { "core": "60%", "legs": "30%", "shoulders": "10%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Jumping Jacks",
+    "Video": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+    "Details": {
+      "Angles": ["Arms overhead", "Legs wide apart"],
+      "Postures": ["Soft knees", "Rhythmic breathing"]
+    },
+    "Body_hit_ratio": { "legs": "40%", "arms": "20%", "core": "40%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "High Knees",
+    "Video": "https://www.youtube.com/watch?v=8opcQdC-V-U",
+    "Details": {
+      "Angles": ["Knees up to waist height"],
+      "Postures": ["Move arms rhythmically", "Land softly"]
+    },
+    "Body_hit_ratio": { "legs": "60%", "core": "40%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Plank Shoulder Taps",
+    "Video": "https://www.youtube.com/watch?v=J0DnG1_S92I",
+    "Details": {
+      "Angles": ["Plank position"],
+      "Postures": ["No hip rotation", "Alternate arms slowly"]
+    },
+    "Body_hit_ratio": { "core": "60%", "shoulders": "40%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Push Up",
+    "Video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+    "Details": {
+      "Angles": ["45° arm bend", "180° arm extension"],
+      "Postures": ["Keep back straight", "Elbows close to body"]
+    },
+    "Body_hit_ratio": { "arms": "40%", "chest": "50%", "core": "10%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Bicep Curl",
+    "Video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+    "Details": {
+      "Angles": ["90° elbow bend"],
+      "Postures": ["Elbows close to torso", "Controlled movement"]
+    },
+    "Body_hit_ratio": { "arms": "90%", "core": "10%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": true
+  },
+  {
+    "Title": "Tricep Dips",
+    "Video": "https://www.youtube.com/watch?v=0326dy_-CzM",
+    "Details": {
+      "Angles": ["Elbows bend to 90°"],
+      "Postures": ["Keep back close to bench", "Lower slowly"]
+    },
+    "Body_hit_ratio": { "arms": "80%", "shoulders": "20%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 30,
+    "Equipment_needed": true
+  },
+  {
+    "Title": "Pull Up",
+    "Video": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+    "Details": {
+      "Angles": ["Elbows bend fully", "Arms extended at bottom"],
+      "Postures": ["Engage lats", "Avoid swinging"]
+    },
+    "Body_hit_ratio": { "arms": "30%", "back": "60%", "core": "10%" },
+    "Difficulty": "Advanced",
+    "Duration_seconds": 30,
+    "Equipment_needed": true
+  },
+  {
+    "Title": "Bench Press",
+    "Video": "https://www.youtube.com/watch?v=rT7DgCr-3pg",
+    "Details": {
+      "Angles": ["Elbows at 90°"],
+      "Postures": ["Feet flat", "Bar over mid-chest"]
+    },
+    "Body_hit_ratio": { "chest": "60%", "arms": "30%", "shoulders": "10%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 40,
+    "Equipment_needed": true
+  }
+]

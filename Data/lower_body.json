@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Squat",
+    "Video": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "Details": {
+      "Angles": ["Knees bend at 90°"],
+      "Postures": ["Keep back straight", "Feet shoulder-width apart"]
+    },
+    "Body_hit_ratio": { "legs": "60%", "glutes": "30%", "core": "10%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Lunges",
+    "Video": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+    "Details": {
+      "Angles": ["90° front knee bend"],
+      "Postures": ["Back straight", "Step forward evenly"]
+    },
+    "Body_hit_ratio": { "legs": "60%", "glutes": "30%", "core": "10%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Deadlift",
+    "Video": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+    "Details": {
+      "Angles": ["Flat back hinge", "Full hip extension"],
+      "Postures": ["Keep bar close to body", "Core tight"]
+    },
+    "Body_hit_ratio": { "legs": "40%", "back": "40%", "core": "20%" },
+    "Difficulty": "Advanced",
+    "Duration_seconds": 60,
+    "Equipment_needed": true
+  },
+  {
+    "Title": "Jump Squats",
+    "Video": "https://www.youtube.com/watch?v=U4s4mEQ5VqU",
+    "Details": {
+      "Angles": ["Knees bend 90° then jump"],
+      "Postures": ["Land softly", "Explode upward"]
+    },
+    "Body_hit_ratio": { "legs": "70%", "core": "30%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Glute Bridge",
+    "Video": "https://www.youtube.com/watch?v=wPM8icPu6H8",
+    "Details": {
+      "Angles": ["Hips lifted"],
+      "Postures": ["Engage glutes", "Feet flat"]
+    },
+    "Body_hit_ratio": { "glutes": "70%", "core": "30%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  }
+]

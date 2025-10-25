@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Plank",
+    "Video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+    "Details": {
+      "Angles": ["Body parallel to ground"],
+      "Postures": ["Engage core", "Keep neck neutral"]
+    },
+    "Body_hit_ratio": { "core": "70%", "shoulders": "20%", "legs": "10%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Russian Twists",
+    "Video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+    "Details": {
+      "Angles": ["Rotate torso side to side"],
+      "Postures": ["Keep feet raised", "Engage obliques"]
+    },
+    "Body_hit_ratio": { "core": "80%", "arms": "20%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Crunches",
+    "Video": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+    "Details": {
+      "Angles": ["Upper back lifts off ground"],
+      "Postures": ["Chin up", "Lower slowly"]
+    },
+    "Body_hit_ratio": { "core": "100%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Side Plank",
+    "Video": "https://www.youtube.com/watch?v=K2VljzCC16g",
+    "Details": {
+      "Angles": ["Body in straight line"],
+      "Postures": ["Support on one arm", "Engage obliques"]
+    },
+    "Body_hit_ratio": { "core": "70%", "shoulders": "30%" },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Leg Raises",
+    "Video": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+    "Details": {
+      "Angles": ["Legs at 90°"],
+      "Postures": ["Lower slowly", "Keep back flat"]
+    },
+    "Body_hit_ratio": { "core": "100%" },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  }
+]
