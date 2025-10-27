@@ -10,7 +10,7 @@
     "Difficulty": "Beginner",
     "Duration_seconds": 30,
     "Equipment_needed": false,
-    "Image": "images/pushup.jpg"
+    "Image": "data/images/pushup.jpg"
   },
   {
     "Title": "Bicep Curl",
@@ -23,7 +23,7 @@
     "Difficulty": "Beginner",
     "Duration_seconds": 40,
     "Equipment_needed": true,
-    "Image": "images/biceps curls.jpg"
+    "Image": "data/images/biceps curls.jpg"
   },
   {
     "Title": "Tricep Dips",
@@ -36,7 +36,7 @@
     "Difficulty": "Intermediate",
     "Duration_seconds": 30,
     "Equipment_needed": true,
-    "Image": "images/tricep dips.jpg"
+    "Image": "data/images/tricep dips.jpg"
   },
   {
     "Title": "Pull Up",
@@ -49,7 +49,7 @@
     "Difficulty": "Advanced",
     "Duration_seconds": 30,
     "Equipment_needed": true,
-    "Image": "images/pull ups.jpg"
+    "Image": "data/images/pull ups.jpg"
   },
   {
     "Title": "Bench Press",
@@ -62,6 +62,6 @@
     "Difficulty": "Intermediate",
     "Duration_seconds": 40,
     "Equipment_needed": true,
-    "Image": "images/bench press.jpg"
+    "Image": "data/images/bench press.jpg"
   }
 ]
