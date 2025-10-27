@@ -1,0 +1,419 @@
+[
+  {
+    "Title": "Push Up",
+    "Video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+    "Details": {
+      "Angles": [
+        "45° arm bend",
+        "180° arm extension"
+      ],
+      "Postures": [
+        "Keep back straight",
+        "Elbows close to body"
+      ]
+    },
+    "Body_hit_ratio": {
+      "arms": "40%",
+      "chest": "50%",
+      "core": "10%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false,
+    "Image": "data/images/pushup.jpg"
+  },
+  {
+    "Title": "Bicep Curl",
+    "Video": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+    "Details": {
+      "Angles": [
+        "90° elbow bend"
+      ],
+      "Postures": [
+        "Elbows close to torso",
+        "Controlled movement"
+      ]
+    },
+    "Body_hit_ratio": {
+      "arms": "90%",
+      "core": "10%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": true,
+    "Image": "data/images/biceps curls.jpg"
+  },
+  {
+    "Title": "Tricep Dips",
+    "Video": "https://www.youtube.com/watch?v=0326dy_-CzM",
+    "Details": {
+      "Angles": [
+        "Elbows bend to 90°"
+      ],
+      "Postures": [
+        "Keep back close to bench",
+        "Lower slowly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "arms": "80%",
+      "shoulders": "20%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 30,
+    "Equipment_needed": true,
+    "Image": "data/images/tricep dips.jpg"
+  },
+  {
+    "Title": "Pull Up",
+    "Video": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+    "Details": {
+      "Angles": [
+        "Elbows bend fully",
+        "Arms extended at bottom"
+      ],
+      "Postures": [
+        "Engage lats",
+        "Avoid swinging"
+      ]
+    },
+    "Body_hit_ratio": {
+      "arms": "30%",
+      "back": "60%",
+      "core": "10%"
+    },
+    "Difficulty": "Advanced",
+    "Duration_seconds": 30,
+    "Equipment_needed": true,
+    "Image": "data/images/pull ups.jpg"
+  },
+  {
+    "Title": "Bench Press",
+    "Video": "https://www.youtube.com/watch?v=rT7DgCr-3pg",
+    "Details": {
+      "Angles": [
+        "Elbows at 90°"
+      ],
+      "Postures": [
+        "Feet flat",
+        "Bar over mid-chest"
+      ]
+    },
+    "Body_hit_ratio": {
+      "chest": "60%",
+      "arms": "30%",
+      "shoulders": "10%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 40,
+    "Equipment_needed": true,
+    "Image": "data/images/bench press.jpg"
+  },
+  {
+    "Title": "Squat",
+    "Video": "https://www.youtube.com/watch?v=aclHkVaku9U",
+    "Details": {
+      "Angles": [
+        "Knees bend at 90°"
+      ],
+      "Postures": [
+        "Keep back straight",
+        "Feet shoulder-width apart"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "60%",
+      "glutes": "30%",
+      "core": "10%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Lunges",
+    "Video": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+    "Details": {
+      "Angles": [
+        "90° front knee bend"
+      ],
+      "Postures": [
+        "Back straight",
+        "Step forward evenly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "60%",
+      "glutes": "30%",
+      "core": "10%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Deadlift",
+    "Video": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+    "Details": {
+      "Angles": [
+        "Flat back hinge",
+        "Full hip extension"
+      ],
+      "Postures": [
+        "Keep bar close to body",
+        "Core tight"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "40%",
+      "back": "40%",
+      "core": "20%"
+    },
+    "Difficulty": "Advanced",
+    "Duration_seconds": 60,
+    "Equipment_needed": true
+  },
+  {
+    "Title": "Jump Squats",
+    "Video": "https://www.youtube.com/watch?v=U4s4mEQ5VqU",
+    "Details": {
+      "Angles": [
+        "Knees bend 90° then jump"
+      ],
+      "Postures": [
+        "Land softly",
+        "Explode upward"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "70%",
+      "core": "30%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Glute Bridge",
+    "Video": "https://www.youtube.com/watch?v=wPM8icPu6H8",
+    "Details": {
+      "Angles": [
+        "Hips lifted"
+      ],
+      "Postures": [
+        "Engage glutes",
+        "Feet flat"
+      ]
+    },
+    "Body_hit_ratio": {
+      "glutes": "70%",
+      "core": "30%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Plank",
+    "Video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+    "Details": {
+      "Angles": [
+        "Body parallel to ground"
+      ],
+      "Postures": [
+        "Engage core",
+        "Keep neck neutral"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "70%",
+      "shoulders": "20%",
+      "legs": "10%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Russian Twists",
+    "Video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+    "Details": {
+      "Angles": [
+        "Rotate torso side to side"
+      ],
+      "Postures": [
+        "Keep feet raised",
+        "Engage obliques"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "80%",
+      "arms": "20%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 40,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Crunches",
+    "Video": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+    "Details": {
+      "Angles": [
+        "Upper back lifts off ground"
+      ],
+      "Postures": [
+        "Chin up",
+        "Lower slowly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "100%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Side Plank",
+    "Video": "https://www.youtube.com/watch?v=K2VljzCC16g",
+    "Details": {
+      "Angles": [
+        "Body in straight line"
+      ],
+      "Postures": [
+        "Support on one arm",
+        "Engage obliques"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "70%",
+      "shoulders": "30%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Leg Raises",
+    "Video": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+    "Details": {
+      "Angles": [
+        "Legs at 90°"
+      ],
+      "Postures": [
+        "Lower slowly",
+        "Keep back flat"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "100%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Burpees",
+    "Video": "https://www.youtube.com/watch?v=TU8QYVW0gDU",
+    "Details": {
+      "Angles": [
+        "Full squat to jump"
+      ],
+      "Postures": [
+        "Engage core",
+        "Land softly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "40%",
+      "arms": "20%",
+      "core": "40%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 60,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Mountain Climbers",
+    "Video": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+    "Details": {
+      "Angles": [
+        "Straight arms, knees to chest"
+      ],
+      "Postures": [
+        "Keep hips low",
+        "Move fast but controlled"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "60%",
+      "legs": "30%",
+      "shoulders": "10%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Jumping Jacks",
+    "Video": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+    "Details": {
+      "Angles": [
+        "Arms overhead",
+        "Legs wide apart"
+      ],
+      "Postures": [
+        "Soft knees",
+        "Rhythmic breathing"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "40%",
+      "arms": "20%",
+      "core": "40%"
+    },
+    "Difficulty": "Beginner",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "High Knees",
+    "Video": "https://www.youtube.com/watch?v=8opcQdC-V-U",
+    "Details": {
+      "Angles": [
+        "Knees up to waist height"
+      ],
+      "Postures": [
+        "Move arms rhythmically",
+        "Land softly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "legs": "60%",
+      "core": "40%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 30,
+    "Equipment_needed": false
+  },
+  {
+    "Title": "Plank Shoulder Taps",
+    "Video": "https://www.youtube.com/watch?v=J0DnG1_S92I",
+    "Details": {
+      "Angles": [
+        "Plank position"
+      ],
+      "Postures": [
+        "No hip rotation",
+        "Alternate arms slowly"
+      ]
+    },
+    "Body_hit_ratio": {
+      "core": "60%",
+      "shoulders": "40%"
+    },
+    "Difficulty": "Intermediate",
+    "Duration_seconds": 45,
+    "Equipment_needed": false
+  }
+]
