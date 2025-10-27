@@ -9,7 +9,8 @@
     "Body_hit_ratio": { "arms": "40%", "chest": "50%", "core": "10%" },
     "Difficulty": "Beginner",
     "Duration_seconds": 30,
-    "Equipment_needed": false
+    "Equipment_needed": false,
+    "Image": "images/pushup.jpg"
   },
   {
     "Title": "Bicep Curl",
@@ -21,7 +22,8 @@
     "Body_hit_ratio": { "arms": "90%", "core": "10%" },
     "Difficulty": "Beginner",
     "Duration_seconds": 40,
-    "Equipment_needed": true
+    "Equipment_needed": true,
+    "Image": "images/biceps curls.jpg"
   },
   {
     "Title": "Tricep Dips",
@@ -33,7 +35,8 @@
     "Body_hit_ratio": { "arms": "80%", "shoulders": "20%" },
     "Difficulty": "Intermediate",
     "Duration_seconds": 30,
-    "Equipment_needed": true
+    "Equipment_needed": true,
+    "Image": "images/tricep dips.jpg"
   },
   {
     "Title": "Pull Up",
@@ -45,7 +48,8 @@
     "Body_hit_ratio": { "arms": "30%", "back": "60%", "core": "10%" },
     "Difficulty": "Advanced",
     "Duration_seconds": 30,
-    "Equipment_needed": true
+    "Equipment_needed": true,
+    "Image": "images/pull ups.jpg"
   },
   {
     "Title": "Bench Press",
@@ -57,6 +61,7 @@
     "Body_hit_ratio": { "chest": "60%", "arms": "30%", "shoulders": "10%" },
     "Difficulty": "Intermediate",
     "Duration_seconds": 40,
-    "Equipment_needed": true
+    "Equipment_needed": true,
+    "Image": "images/bench press.jpg"
   }
 ]
