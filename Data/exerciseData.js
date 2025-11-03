@@ -3,7 +3,7 @@
 const exerciseData = {
     standard: {
         title: 'Standard Push Up',
-        image: 'standard-pushup.svg',
+        image: 'standard pushup.jpg',
         video: 'https://youtu.be/mECzqUIDWfU?si=ePSpGzGzFOotmnMX',
         description: 'The standard push-up is a classic exercise that targets the chest, shoulders, triceps, and core.',
         tips: [
@@ -20,7 +20,7 @@ const exerciseData = {
     },
     wide: {
         title: 'Wide Push Up',
-        image: 'wide-pushup.svg',
+        image: 'wide pushup.jpg',
         video: 'https://youtu.be/EsIdzx1J0iA?si=uh_I5RDMW8UjSD98',
         description: 'Wide push-ups place more emphasis on the chest muscles by positioning the hands wider than shoulder-width apart.',
         tips: [
@@ -37,7 +37,7 @@ const exerciseData = {
     },
     diamond: {
         title: 'Diamond Push Up',
-        image: 'diamond-pushup.svg',
+        image: 'diamond pushup.jpg',
         video: 'https://youtu.be/XtU2VQVuLYs?si=FM0jADOkD7GEqhzk',
         description: 'Diamond push-ups target the triceps more intensely by positioning the hands close together in a diamond shape.',
         tips: [
@@ -54,7 +54,7 @@ const exerciseData = {
     },
     incline: {
         title: 'Incline Push Up',
-        image: 'incline-pushup.svg',
+        image: 'incline pushup.jpg',
         video: 'https://youtube.com/shorts/SOu-3_YyX2c?si=0KqtlWpFOn_b6Ben',
         description: 'Incline push-ups are easier than standard push-ups and are great for beginners. They place less stress on the shoulders and arms.',
         tips: [
@@ -71,7 +71,7 @@ const exerciseData = {
     },
     decline: {
         title: 'Decline Push Up',
-        image: 'decline-pushup.svg',
+        image: 'decline pushup.jpg',
         video: 'https://youtu.be/QAF830S96gs?si=LGUvWaeZmSHGT7Eb',
         description: 'Decline push-ups are more challenging than standard push-ups and place more emphasis on the upper chest and shoulders.',
         tips: [
